@@ -59,3 +59,115 @@
 2024-04-29 18:50:05,665 INFO /usr/local/bin/bench setup requirements --dev
 2024-04-29 18:50:07,467 DEBUG cd /Users/christinenyathira/library-system/library-application-system-frappe && /Users/christinenyathira/library-system/library-application-system-frappe/env/bin/python -m pip install --quiet --upgrade coverage~=6.5.0 Faker~=18.10.1 pyngrok~=6.0.0 unittest-xml-reporting~=3.2.0 watchdog~=3.0.0 hypothesis~=6.77.0 responses==0.23.1 freezegun~=1.2.2 
 2024-04-30 00:00:01,511 INFO /usr/local/bin/bench --verbose --site all backup
+2024-04-30 15:53:09,989 INFO /usr/local/bin/bench start
+2024-04-30 15:53:11,468 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 15:53:11,477 INFO /usr/local/bin/bench watch
+2024-04-30 15:53:11,497 INFO /usr/local/bin/bench schedule
+2024-04-30 15:53:11,536 INFO /usr/local/bin/bench worker
+2024-04-30 16:00:32,769 INFO /usr/local/bin/bench set-config -g developer_mode 1
+2024-04-30 16:00:51,741 INFO /usr/local/bin/bench --site library.system clear-cache
+2024-04-30 16:01:01,921 INFO /usr/local/bin/bench setup requirements --dev
+2024-04-30 16:01:03,757 DEBUG cd /Users/christinenyathira/library-system/library-application-system-frappe && /Users/christinenyathira/library-system/library-application-system-frappe/env/bin/python -m pip install --quiet --upgrade coverage~=6.5.0 Faker~=18.10.1 pyngrok~=6.0.0 unittest-xml-reporting~=3.2.0 watchdog~=3.0.0 hypothesis~=6.77.0 responses==0.23.1 freezegun~=1.2.2 
+2024-04-30 16:31:49,104 INFO /usr/local/bin/bench restart
+2024-04-30 16:31:49,234 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-04-30 16:32:01,092 INFO /usr/local/bin/bench stop
+2024-04-30 16:32:10,403 INFO /usr/local/bin/bench start
+2024-04-30 16:32:12,098 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:32:12,123 INFO /usr/local/bin/bench schedule
+2024-04-30 16:32:12,134 INFO /usr/local/bin/bench watch
+2024-04-30 16:32:12,135 INFO /usr/local/bin/bench worker
+2024-04-30 16:33:26,359 INFO /usr/local/bin/bench start
+2024-04-30 16:33:28,200 INFO /usr/local/bin/bench watch
+2024-04-30 16:33:28,226 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:33:28,231 INFO /usr/local/bin/bench worker
+2024-04-30 16:33:28,285 INFO /usr/local/bin/bench schedule
+2024-04-30 16:35:14,183 INFO /usr/local/bin/bench set-config -g server_script_enabled 1
+2024-04-30 16:37:10,161 INFO /usr/local/bin/bench start
+2024-04-30 16:37:11,884 INFO /usr/local/bin/bench schedule
+2024-04-30 16:37:11,893 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:37:11,906 INFO /usr/local/bin/bench watch
+2024-04-30 16:37:11,942 INFO /usr/local/bin/bench worker
+2024-04-30 16:37:43,501 INFO /usr/local/bin/bench start
+2024-04-30 16:37:45,239 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:37:45,263 INFO /usr/local/bin/bench schedule
+2024-04-30 16:37:45,282 INFO /usr/local/bin/bench watch
+2024-04-30 16:37:45,373 INFO /usr/local/bin/bench worker
+2024-04-30 16:39:54,103 INFO /usr/local/bin/bench start
+2024-04-30 16:39:55,897 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:39:55,920 INFO /usr/local/bin/bench schedule
+2024-04-30 16:39:55,988 INFO /usr/local/bin/bench watch
+2024-04-30 16:39:56,194 INFO /usr/local/bin/bench worker
+2024-04-30 16:41:31,792 INFO /usr/local/bin/bench start
+2024-04-30 16:41:33,409 INFO /usr/local/bin/bench worker
+2024-04-30 16:41:33,422 INFO /usr/local/bin/bench schedule
+2024-04-30 16:41:33,458 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:41:33,467 INFO /usr/local/bin/bench watch
+2024-04-30 16:43:10,301 INFO /usr/local/bin/bench start
+2024-04-30 16:43:12,249 INFO /usr/local/bin/bench schedule
+2024-04-30 16:43:12,251 INFO /usr/local/bin/bench watch
+2024-04-30 16:43:12,264 INFO /usr/local/bin/bench worker
+2024-04-30 16:43:12,275 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:45:21,783 INFO /usr/local/bin/bench start
+2024-04-30 16:45:23,792 INFO /usr/local/bin/bench worker
+2024-04-30 16:45:23,816 INFO /usr/local/bin/bench watch
+2024-04-30 16:45:23,828 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:45:23,958 INFO /usr/local/bin/bench schedule
+2024-04-30 16:49:11,640 INFO /usr/local/bin/bench start
+2024-04-30 16:49:13,472 INFO /usr/local/bin/bench worker
+2024-04-30 16:49:13,536 INFO /usr/local/bin/bench watch
+2024-04-30 16:49:13,590 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:49:13,597 INFO /usr/local/bin/bench schedule
+2024-04-30 16:57:20,909 INFO /usr/local/bin/bench start
+2024-04-30 16:57:22,579 INFO /usr/local/bin/bench schedule
+2024-04-30 16:57:22,590 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 16:57:22,624 INFO /usr/local/bin/bench watch
+2024-04-30 16:57:22,738 INFO /usr/local/bin/bench worker
+2024-04-30 17:05:48,887 INFO /usr/local/bin/bench start
+2024-04-30 17:05:51,054 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 17:05:51,117 INFO /usr/local/bin/bench watch
+2024-04-30 17:05:51,118 INFO /usr/local/bin/bench worker
+2024-04-30 17:05:51,125 INFO /usr/local/bin/bench schedule
+2024-04-30 17:23:53,199 INFO /usr/local/bin/bench start
+2024-04-30 17:23:54,860 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 17:23:54,885 INFO /usr/local/bin/bench schedule
+2024-04-30 17:23:54,892 INFO /usr/local/bin/bench watch
+2024-04-30 17:23:54,929 INFO /usr/local/bin/bench worker
+2024-04-30 17:28:36,666 INFO /usr/local/bin/bench --site all clear-cache
+2024-04-30 17:28:47,216 INFO /usr/local/bin/bench --site site-name clear-cache
+2024-04-30 17:28:50,786 INFO /usr/local/bin/bench start
+2024-04-30 17:28:52,422 INFO /usr/local/bin/bench watch
+2024-04-30 17:28:52,429 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 17:28:52,525 INFO /usr/local/bin/bench schedule
+2024-04-30 17:28:52,595 INFO /usr/local/bin/bench worker
+2024-04-30 17:34:34,028 INFO /usr/local/bin/bench start
+2024-04-30 17:34:35,908 INFO /usr/local/bin/bench schedule
+2024-04-30 17:34:35,911 INFO /usr/local/bin/bench watch
+2024-04-30 17:34:35,917 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 17:34:35,918 INFO /usr/local/bin/bench worker
+2024-04-30 17:44:08,912 INFO /usr/local/bin/bench --site site-name clear-cache
+2024-04-30 17:44:12,348 INFO /usr/local/bin/bench --site all clear-cache
+2024-04-30 17:44:15,782 INFO /usr/local/bin/bench start
+2024-04-30 17:44:17,637 INFO /usr/local/bin/bench schedule
+2024-04-30 17:44:17,645 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 17:44:17,670 INFO /usr/local/bin/bench watch
+2024-04-30 17:44:17,679 INFO /usr/local/bin/bench worker
+2024-04-30 18:00:00,779 INFO /usr/local/bin/bench --verbose --site all backup
+2024-04-30 18:01:29,614 INFO /usr/local/bin/bench --site all clear-cache
+2024-04-30 18:01:33,038 INFO /usr/local/bin/bench start
+2024-04-30 18:01:34,711 INFO /usr/local/bin/bench watch
+2024-04-30 18:01:34,717 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 18:01:34,724 INFO /usr/local/bin/bench worker
+2024-04-30 18:01:34,773 INFO /usr/local/bin/bench schedule
+2024-04-30 18:05:31,393 INFO /usr/local/bin/bench --site all clear-cache
+2024-04-30 18:05:35,895 INFO /usr/local/bin/bench start
+2024-04-30 18:05:37,663 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 18:05:37,712 INFO /usr/local/bin/bench watch
+2024-04-30 18:05:37,722 INFO /usr/local/bin/bench schedule
+2024-04-30 18:05:37,735 INFO /usr/local/bin/bench worker
+2024-04-30 18:08:52,260 INFO /usr/local/bin/bench --site all clear-cache
+2024-04-30 18:08:55,457 INFO /usr/local/bin/bench start
+2024-04-30 18:08:57,187 INFO /usr/local/bin/bench serve --port 8000
+2024-04-30 18:08:57,275 INFO /usr/local/bin/bench schedule
+2024-04-30 18:08:57,276 INFO /usr/local/bin/bench worker
+2024-04-30 18:08:57,281 INFO /usr/local/bin/bench watch
+2024-04-30 18:41:44,271 INFO /usr/local/bin/bench --site library.system set-config server_script_enabled true

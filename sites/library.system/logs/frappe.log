@@ -64,3 +64,84 @@ Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_
 2024-04-29 23:06:38,515 ERROR frappe New Exception collected in error log
 Site: library.system
 Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-01","return_date":"2024-04-03","rent_fee":9000,"status":"Issued","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 16:37:15,757 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {}
+2024-04-30 16:37:15,757 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {}
+2024-04-30 16:37:15,758 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {}
+2024-04-30 16:37:15,758 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {}
+2024-04-30 16:37:18,941 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {}
+2024-04-30 16:37:18,941 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {}
+2024-04-30 18:28:56,703 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-06","return_date":"2024-04-11","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:29:03,806 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-06","return_date":"2024-04-11","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:29:18,131 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-06","return_date":"2024-04-11","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:29:49,196 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-06","return_date":"2024-04-11","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:30:02,564 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-01","return_date":"2024-04-26","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:30:04,368 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-01","return_date":"2024-04-26","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:34:53,957 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-03","return_date":"2024-04-04","status":"Issued","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:34:55,069 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-03","return_date":"2024-04-04","status":"Issued","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:35:44,019 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-10","return_date":"2024-04-10","status":"Issued","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:36:42,290 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-02","return_date":"2024-04-30","status":"Issued","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:37:12,818 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-02","return_date":"2024-04-11","status":"Issued","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:37:47,391 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-01","return_date":"2024-04-30","status":"Issued","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:45:04,964 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-03","return_date":"2024-04-04","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:47:37,382 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-02","return_date":"2024-04-02","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:48:15,851 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-01","return_date":"2024-04-30","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:51:14,579 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-02","return_date":"2024-04-04","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:51:42,710 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"member":"Kanga-Christina","title":"Atomic Habits","issue_date":"2024-04-02","return_date":"2024-04-12","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:52:42,599 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-08","return_date":"2024-04-30","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 18:58:32,809 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-02","return_date":"2024-04-05","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 19:01:20,856 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Stay with me","member":"Kanga-Christina","issue_date":"2024-04-02","return_date":"2024-04-25","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
+2024-04-30 19:03:55,295 ERROR frappe New Exception collected in error log
+Site: library.system
+Form Dict: {'data': '{"title":"Atomic Habits","member":"Kanga-Christina","issue_date":"2024-04-02","return_date":"2024-04-03","status":"Returned","doctype":"Transactions","web_form_name":"view-transactions"}', 'web_form': 'view-transactions', 'for_payment': 'false', 'cmd': 'frappe.website.doctype.web_form.web_form.accept'}
